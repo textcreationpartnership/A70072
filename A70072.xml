@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>What the unchangable [sic] God is, and how all people may know him, and in what he is worshiped and served</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70072</idno>
+            <idno type="STC">Wing F1989A</idno>
+            <idno type="STC">ESTC R16265</idno>
+            <idno type="EEBO-CITATION">11851749</idno>
+            <idno type="OCLC">ocm 11851749</idno>
+            <idno type="VID">49941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 29:18 or 29:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>What the unchangable [sic] God is, and how all people may know him, and in what he is worshiped and served</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.F. [i.e. George Fox].</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library and Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Attributes.</term>
+               <term>God --  Worship and love.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49941:1"/>
+            <pb n="1" facs="tcp:49941:1"/>
+            <head>What the <g ref="char:V">Ʋ</g>nchangable GOD is, and how all People may know him, and in what he is Worſhiped and Served.</head>
+            <p>THe Lord <hi>hath meaſur'd the waters in the hol<g ref="char:EOLhyphen"/>low of his hand;</hi> So the Lord the Uncom<g ref="char:EOLhyphen"/>parable God knoweth the meaſures of the waters in the Seas, Brooks, Rivers, Wells and Ponds, for he hath meaſured them, ſo they are meaſured in the hollow of his Infinite hand, and the uncomparable God with his Infinite hand <hi>hath meted out heaven with his Span,</hi> (Mark <hi>he hath meted it out</hi>) ſo he knoweth the Breadth and the Compaſs of it with his Infinite ſpan of his great hand, and the Lord hath comprehended <hi>the duſt of the earth in a meaſure,</hi> ſo the Uncomparable God knoweth the meaſure of the duſt of the Earth, and the Lord <hi>hath weighed the Mountains in Scales and the hills in a Ballance,</hi> So the Lord who hath weighed them knoweth the weight both of the hills and Mountains, <hi>Behold the Nations are but as the drop of a Bucket, and are counted as the ſmall duſt of the Earth, Behold he taketh up the Iſles as a very little thing, to whom then will ye liken God, or what Likeneſs will ye compare him to,</hi> who is the Infinite Uncomparable God, as in <hi>Iſai:</hi> 40. <hi>In the
+<pb n="2" facs="tcp:49941:2"/>Lords hand is the Soul of every Living thing and the Breath of all mankind,</hi> Job: 12.10.</p>
+            <p>So here you may ſee and feel the Lords hand is nigh unto all Men and Women in the whole World, and in them, if their Soul and Breath be in his hand, here you may ſee the Eternal Infinite hand of the Uncomparable God in whoſe hand is <hi>the Soul of every Living thing, and the breath of all mankind</hi> in the whole World, for <hi>God breathed into man the breath of Life, and he became a Living ſoul,</hi> God who is Immortal hath the breath of all (and all Immortal Souls) in his hand, and none can fall out of his Eternal hand without his Eternal Will.</p>
+            <p>
+               <hi>The Spirit of God hath made me and Breath of the Almighty hath given me Life,</hi> Job. 33.4. and <hi>Daniel</hi> told <hi>Belſhazer</hi> the King how that he lifted up his ſelf againſt the Lord God of Heaven <hi>in whoſe hand is thy breath,</hi> Dan. 5.23.</p>
+            <p>And the Apoſtle ſaith, <hi>God that made the World and all things therein he is Lord of Heaven and Earth, dwelleth not in Temples made with hands, neither is he worſhipped with the works of mens hands asthough he needed any thing, and hath made of one Blood all Nations of men for to dwell upon the face of the Earth, and he giveth to all Life and Breath and all things</hi> &amp;c. <hi>that they ſhould ſeek the
+<pb n="3" facs="tcp:49941:2"/>Lord if haply they might feel after him and find him, though he be not far from every one of us, for in him we live and move and have our being,</hi> Acts 17.24 to 28.</p>
+            <p>Here again you may ſee how God gives Life and Breath unto all, who hath it in his hand, and he would have all to know him and ſerve him, and that he is nigh unto them all, who hath their Breath and Soul in his hand; ſo then he is nigh unto all that they might know that they live, move and have their being in the Lord, who <hi>poureth out of his Spirit upon all fleſh, that all fleſh might ſee his glory, and ſee the ſalvation of God,</hi> Iſai. 43. Luk. 3.6. Acts 2.17. For the Lord poureth out of his Spirit upon all fleſh, that in his Spirit and in truth all might know God, and ſerve him, and worſhip him in his Spirit and truth for ſuch Spiritual Worſhipers God who is an Infi<g ref="char:EOLhyphen"/>nite Holy Spirit, ſeeks to Worſhip him. Now it is and hath been often ſaid by the Prieſts that are bred up at Schooles and Colledges that <hi>the Prieſts Lips ſhould preſerve</hi> peoples <hi>knowledge and they ſhould ſeek the Law at his Mouth;</hi> I anſwer that theſe were the Jews Prieſts that were made by the Law of a Carnal Commandment in the Old Teſtament and Old Covenant; but <hi>Chriſt was made a Prieſt after the power of an endleſs Life</hi> in the New Teſtament &amp;
+<pb n="4" facs="tcp:49941:3"/>new Covenant, who came of <hi>Judah</hi> and is called <hi>the</hi> I <hi>you of the Tribe of</hi> Judah, <hi>and not after the Order of</hi> Aaron who offered Rams and Lambs and Bullocks and other Creatures but <hi>after the Order of</hi> Mel<g ref="char:EOLhyphen"/>chiſadeck, from <hi>Malack</hi> a King, <hi>Chiſadeck Juſt or Righteous,</hi> ſo a Juſt and Righteous King. Of whom we do not Read that he offered up outward Crea<g ref="char:EOLhyphen"/>tures as <hi>Aarons</hi> Prieſthood did, tho he offered up Praiſes to God when he met <hi>Abraham.</hi>
+            </p>
+            <p>But Chriſt hath changed the Prieſthood of <hi>Aaron,</hi> and the Law by which they were made and diſſanulled the Commandment which gave him his Tythes; as you may ſee in <hi>Heb.</hi> 7.</p>
+            <p>Now you that do ſay the Jewes Prieſts that are made by the Law; their <hi>Lips are to preſerve</hi> Peo<g ref="char:EOLhyphen"/>ples <hi>knowledge, and they are to receive the Law at his Mouth,</hi> this Law ſerved until Chriſt the Seed came. <hi>Gala.</hi> 3.10. <hi>Who is the end of the Law for Righteouſneſs to every one that believes.</hi> Rom. 10.4. And in the Old Teſtament and Covenant God gave the Jewes a Law in Tables of Stone, but in the New Teſtament and new Covenant; God ſaith, <hi>I will put my Law in their Minds and write it in their hearts, and I will be their God and they ſhall be my People, and they ſhall not teach every man his Neighbour and every man his Brother, ſaying, know the Lord, for all ſhall know me from the leaſt to the greateſt ſaith the Lord,</hi> Heb. 7.10, 11.</p>
+            <pb n="5" facs="tcp:49941:3"/>
+            <p>So you may ſee here is no need of the Jewes Prieſts Lips, &amp;c. to preſerve Peoples knowledge, and to receive the Law at their Mouths, and to give them Tythes for receiving the Law, for Chriſt hath changed the Prieſthood and the Law; by which it was made, and diſſanulled the Commandment that gave him his tythes, and ſaith in his New Teſtament to his Miniſters, <hi>Freely ye have receiv<g ref="char:EOLhyphen"/>ed freely give,</hi> and in the New Covenant and New Teſtament the Lord puts it in their minds and writes it in their hearts, that they ſhall not need to teach every man his Neighbour and every man his Brother ſaying know the Lord; and Chriſt Jeſus the treaſure of Wiſdom and Knowledge, <hi>for all ſhall know me from the Leaſt to the Greateſt ſaith the Lord,</hi> So this Law that God writes in their hearts and puts in their minds gives them knowledge to know the Lord, ſo this Law they receive from the Lord and not from the Colledge Prieſts and the Jewes Prieſts in the Old Teſtament.</p>
+            <p>And the Lord poured his Spirit upon the houſe of Iſrael &amp; the houſe of Judah in the Old Teſtament, but it is ſaid in <hi>Joel</hi> 2. <hi>that God would poure his Spirit upon all fleſh,</hi> &amp;c, and after Chriſt was riſen the Diſciples and the Believers were met together, and the Jewes came gazing upon them, and <hi>others mocked and ſaid they were full of new Wine,</hi> and
+<pb n="6" facs="tcp:49941:4"/>
+               <hi>Peter</hi> and the Eleven told them <hi>that they were not drunk as they ſuppoſed, ſeeing it was but the third hour of the Day, but this is that which was ſpoken by</hi> Joel <hi>the Prophet, It ſhall come to paſs in the laſt dayes ſaith the Lord that I will pour out of my Spirit upon all fleſh, and your Sons and your Daugh<g ref="char:EOLhyphen"/>ters ſhall Propheſie, and your young men ſhall ſee Viſions: and your Old Men ſhall dream Dreams, and on my Servants and on my Handmaids, I will pour in thoſe dayes out of my Spirit, &amp; they ſhall Propheſie,</hi> Act. 2 13. <hi>to the</hi> 18.</p>
+            <p>Here you may ſee the Spirit that God poureth upon all Fleſh gives people knowledge of Prophe<g ref="char:EOLhyphen"/>ſies and of Dreams, and of Viſions, ſo the Spirit of God, That God poureth upon all fleſh in the new New Teſtament and new Covenant gives them knowledge that they need not the Prieſts lips in the Old Teſtament to preſerve their knowledge, and People will not periſh for lack of Viſions, if they mind the Spirit of God that he hath poured upon them, and <hi>the Spirit of Truth will lead them into all Truth,</hi> but if Sons and Daughters and Hand<g ref="char:EOLhyphen"/>maids, and Sevants, and Old men, do rebel againſt the Spirit of God; that he poureth upon them in the New Teſtament, as the Jews did in the Old Teſtament, for God gave them his good Spirit, but they rebelled againſt it, then thoſe goes from the
+<pb n="7" facs="tcp:49941:4"/>Key of Knowledge both Jewes and Chriſtians, and all Fleſh, And the Jews Prieſts when they went from the Spirit of God they neither preſerved the Peoples knowledge nor their own, and became Deaf and blind, and turned againſt the Prophets Chriſt and the Apoſtles, though they might make an outward painting of the Sepulchres of the Righ<g ref="char:EOLhyphen"/>teous; in an outward Profeſſion of words and turn againſt the Righteous.</p>
+            <p>So now all fleſh Jewes and Gentiles and all Chriſtendom whom God hath poured out of his Spirit upon, if they rebel againſt Gods good Spirit &amp; err from it, and quench it, and vex it, they are be<g ref="char:EOLhyphen"/>come a whore from God and Chriſt, and his Spirit, and have neither true Viſions, nor true Propheſies, nor true Dreams, and are a <hi>Babilon</hi> all in heaps and Confuſion, and cannot worſhip the Eternal God in his Spirit, and in his truth, and are out of the Unity and the Fellowſhip in the Spirit, which is the bond of Peace, and ſo <hi>have not Fellowſhip with the Father and the Son, nor fellowſhip one with another,</hi> but are broken into Sects and heaps one againſt another, whereas the Spiritual, that walk in the Spirit, are in the Spirit the Bond of Peace, and are in fellowſhip with the Father and the Son and one with another, and Worſhip and ſerve the Living God in his Spirit and truth.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
